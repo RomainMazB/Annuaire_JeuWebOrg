@@ -8,6 +8,34 @@
       "id_thread": 12568
     },
     {
+      "name": "Senet",
+      "url": "https://xenos.reinom.com/senet/",
+      "image": "https://reinom.com/resources/endpoint/projects/web/senet/senet.png",
+      "genre": "Mini-jeu de société",
+      "id_thread": 12015
+    },
+    {
+      "name": "Skye's Birthday",
+      "url": "https://xenos.reinom.com/skye-birthday/",
+      "image": "https://reinom.com/resources/endpoint/projects/disland/skyebirthday/skye-birthday.png",
+      "genre": "RPG Point & Click",
+      "id_thread": 12015
+    },
+    {
+      "name": "Make some Wishes",
+      "url": "https://xenos.reinom.com/make-wishes/",
+      "image": "https://reinom.com/resources/endpoint/projects/disland/makewishes/make-wishes.png",
+      "genre": "Mini-jeu d'adresse",
+      "id_thread": 12015
+    },
+    {
+      "name": "E.C.L.E.R.D.",
+      "url": "https://eclerd.com/",
+      "image": "https://reinom.com/resources/endpoint/projects/eclerd/eclerd.png",
+      "genre": "Jeu de stratégie",
+      "id_thread": 12349
+    },
+    {
       "name": "L'île du cœur",
       "url": "http: //www.ile-du-coeur.com/",
       "image": "http://www.ile-du-coeur.com/graphisme/banniere.png",
