@@ -1,51 +1,17 @@
 {
   "data": [
     {
-      "name": "Disease-it",
+      "name": "Disease it",
       "url": "http://disease-it.jeuweb.org/",
       "image": "https://img.itch.zone/aW1nLzMxMTA5ODQucG5n/original/zO55Li.png",
-      "description": null,
-      "email": null,
+      "genre": "Mini-jeu de société"
       "id_thread": 12568
     },
     {
-      "name": "L'ile du coeur",
+      "name": "L'île du cœur",
       "url": "http: //www.ile-du-coeur.com/",
       "image": "http://www.ile-du-coeur.com/graphisme/banniere.png",
-      "description": null,
-      "email": "arnaud.degouy@hotmail.fr",
-      "id_thread": 12340
-    },
-    {
-      "name": "L'ile du coeur",
-      "url": "http: //www.ile-du-coeur.com/",
-      "image": "https://i.picsum.photos/id/327/300/300.jpg?grayscale",
-      "description": null,
-      "email": "arnaud.degouy@hotmail.fr",
-      "id_thread": 12340
-    },
-    {
-      "name": "L'ile du coeur",
-      "url": "http: //www.ile-du-coeur.com/",
-      "image": "https://i.picsum.photos/id/327/800/600.jpg?grayscale",
-      "description": null,
-      "email": "arnaud.degouy@hotmail.fr",
-      "id_thread": 12340
-    },
-    {
-      "name": "L'ile du coeur",
-      "url": "http: //www.ile-du-coeur.com/",
-      "image": "https://i.picsum.photos/id/866/1000/200.jpg",
-      "description": null,
-      "email": "arnaud.degouy@hotmail.fr",
-      "id_thread": 12340
-    },
-    {
-      "name": "L'ile du coeur",
-      "url": "http: //www.ile-du-coeur.com/",
-      "image": "https://i.picsum.photos/id/866/1200/1200.jpg",
-      "description": null,
-      "email": "arnaud.degouy@hotmail.fr",
+      "genre": "",
       "id_thread": 12340
     }
   ]
