@@ -34,6 +34,13 @@
       "image": "https://reinom.com/resources/endpoint/projects/eclerd/eclerd.png",
       "genre": "Jeu de stratégie",
       "id_thread": 12349
+    },
+    {
+      "name": "Virtual Golf Club",
+      "url": "http://www.virtual-golf-club.com/",
+      "image": "http://www.virtual-golf-club.com/images/golf-800x600.png",
+      "genre": "Jeu de gestion et de stratégie",
+      "id_thread": 11482
     }
   ]
 }
