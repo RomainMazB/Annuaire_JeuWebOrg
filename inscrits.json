@@ -48,6 +48,13 @@
       "image": "http://www.virtual-golf-club.com/images/golf-800x600.png",
       "genre": "Jeu de gestion et de stratégie",
       "id_thread": 11482
+    },
+    {
+      "name": "Tashi",
+      "url": "https://qtboo.csb.app/",
+      "image": "https://uploads.codesandbox.io/uploads/user/79960e6b-b9c3-4865-95ba-f2643fc64b2b/tS39-splash.png",
+      "genre": "Gestion de ressources et évènements narratifs",
+      "id_thread": 12602
     }
   ]
 }
